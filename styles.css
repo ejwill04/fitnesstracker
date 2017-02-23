@@ -32,6 +32,10 @@ header {
   flex-direction: column;
 }
 
+.today--checkbox {
+  margin: auto 10px;
+}
+
 .today--activity {
   flex-grow: 5;
   padding-top: 20px;
